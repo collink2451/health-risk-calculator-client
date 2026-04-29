@@ -1,4 +1,4 @@
-const api_url = "https://healthriskcalculatorapi.azurewebsites.net";
+const api_url = "/api";
 
 setInterval(function () {
   ping();
